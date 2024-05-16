@@ -18,8 +18,8 @@ public class ArraysDemoHome {
                 max = numbers[i];
             }
         }
-        System.out.println("En kicik eded " + min);
-        System.out.println("En boyuk eded" + max);
+        System.out.println("En kicik eded: " + min);
+        System.out.println("En boyuk eded: " + max);
 
         double sum = 0;
         for (int number : numbers) {
