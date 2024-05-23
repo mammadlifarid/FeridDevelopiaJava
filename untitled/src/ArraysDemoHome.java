@@ -1,6 +1,6 @@
 public class ArraysDemoHome {
     public static void main(String[] args) {
-        int[] numbers = { 8, 9, 5, 6, 7};
+        int[] numbers = { 34,23,43,55,25,9, 5, 6, 7, 4};
 
 
         for (int number : numbers) {
